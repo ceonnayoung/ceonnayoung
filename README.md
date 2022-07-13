@@ -1,3 +1,5 @@
+<head>
+</head>
 <body>
   <h1>Hi I'm nayoung</h1>
   <p style="text-align:center;"></p>
